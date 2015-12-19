@@ -1,0 +1,22 @@
+{
+  "name": "taco-truck",
+  "version": "1.0.0",
+  "description": "Moves tacos to where they need to be",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcomnes/taco-truck.git"
+  },
+  "keywords": [
+    "taco"
+  ],
+  "author": "Bret Comnes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bcomnes/taco-truck/issues"
+  },
+  "homepage": "https://github.com/bcomnes/taco-truck#readme"
+}
