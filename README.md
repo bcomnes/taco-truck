@@ -1,5 +1,7 @@
 # taco-truck
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/bcomnes/taco-truck.svg)](https://greenkeeper.io/)
+
 Brings tacos to where you need them.
 
 **Warning**: Highly experimental.
